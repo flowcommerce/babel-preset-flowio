@@ -1,5 +1,5 @@
 {
-  "name": "babel-preset-flowio",
+  "name": "@flowio/babel-preset-flowio",
   "version": "1.0.0",
   "description": "A Babel preset for transforming your JavaScript for Flow Commerce",
   "main": "index.js",
