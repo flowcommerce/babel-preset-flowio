@@ -29,7 +29,7 @@ The transformation plugin is typically used only in development, but the runtime
 
 ```json
 {
-  "presets": ["flowio"]
+  "presets": ["@flowio/babel-preset-flowio"]
 }
 ```
 
