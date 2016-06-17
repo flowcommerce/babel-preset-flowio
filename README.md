@@ -43,6 +43,6 @@ $ babel script.js --presets flowio
 
 ```javascript
 require("babel-core").transform("code", {
-  presets: ["flowio"]
+  presets: ["@flowio/babel-preset-flowio"]
 });
 ```
