@@ -5,7 +5,7 @@
 ## Installation
 
 ```sh
-$ npm install --save-dev babel-preset-flowio
+$ npm install --save-dev @flowio/babel-preset-flowio
 ```
 
 You should also install `babel-runtime` itself:
