@@ -24,6 +24,10 @@ By default, automatic code polyfilling is disabled.
 
 ## Usage
 
+Our default export includes everything you need to get you started writing JSX
+and ES2016 JavaScript. If you don't need JSX support you can extend the base
+configuration instead (`"@flowio/babel-preset-flowio/base"`).
+
 ### Via `.babelrc` (Recommended)
 
 **.babelrc**
