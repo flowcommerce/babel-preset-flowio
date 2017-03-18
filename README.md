@@ -1,5 +1,7 @@
 # babel-preset-flowio
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/flowcommerce/babel-preset-flowio.svg)](https://greenkeeper.io/)
+
 > A Babel preset for transforming your JavaScript for Flow Commerce.
 
 ## Installation
